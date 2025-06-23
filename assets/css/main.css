@@ -1353,6 +1353,7 @@ section,
 .skills .skill-item h4 {
   font-size: 16px;
   margin-bottom: 8px;
+  color: var(--accent-color);
 }
 
 .skills .skill-item .skill-percentage {
